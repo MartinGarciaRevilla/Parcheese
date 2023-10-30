@@ -1,0 +1,35 @@
+D:\Nextcloud\Universitat\Sistemes operatius\Repositoris\Joc\Cliente\bin\Debug\Cliente.exe.config
+D:\Nextcloud\Universitat\Sistemes operatius\Repositoris\Joc\Cliente\bin\Debug\Cliente.exe
+D:\Nextcloud\Universitat\Sistemes operatius\Repositoris\Joc\Cliente\bin\Debug\Cliente.pdb
+D:\Nextcloud\Universitat\Sistemes operatius\Repositoris\Joc\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+D:\Nextcloud\Universitat\Sistemes operatius\Repositoris\Joc\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\Nextcloud\Universitat\Sistemes operatius\Repositoris\Joc\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\Nextcloud\Universitat\Sistemes operatius\Repositoris\Joc\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\Nextcloud\Universitat\Sistemes operatius\Repositoris\Joc\Cliente\obj\Debug\Cliente.exe
+D:\Nextcloud\Universitat\Sistemes operatius\Repositoris\Joc\Cliente\obj\Debug\Cliente.pdb
+D:\Nextcloud\Universitat\Sistemes operatius\Repositoris\Joc\Cliente\obj\Debug\Cliente.SalaDeEspera.resources
+D:\Nextcloud\Universitat\Sistemes operatius\Repositoris\Joc\Cliente\obj\Debug\Cliente.PantallaSesionUsuario.resources
+C:\Users\Usuario\OneDrive\Escritorio\SO\ProyectoSo\Proyecto\Joc-main\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\SO\ProyectoSo\Proyecto\Joc-main\Cliente\bin\Debug\Cliente.exe
+C:\Users\Usuario\OneDrive\Escritorio\SO\ProyectoSo\Proyecto\Joc-main\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Usuario\OneDrive\Escritorio\SO\ProyectoSo\Proyecto\Joc-main\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\SO\ProyectoSo\Proyecto\Joc-main\Cliente\obj\Debug\Cliente.SalaDeEspera.resources
+C:\Users\Usuario\OneDrive\Escritorio\SO\ProyectoSo\Proyecto\Joc-main\Cliente\obj\Debug\Cliente.PantallaSesionUsuario.resources
+C:\Users\Usuario\OneDrive\Escritorio\SO\ProyectoSo\Proyecto\Joc-main\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\SO\ProyectoSo\Proyecto\Joc-main\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\SO\ProyectoSo\Proyecto\Joc-main\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\SO\ProyectoSo\Proyecto\Joc-main\Cliente\obj\Debug\Cliente.exe
+C:\Users\Usuario\OneDrive\Escritorio\SO\ProyectoSo\Proyecto\Joc-main\Cliente\obj\Debug\Cliente.pdb
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\bin\Debug\Cliente.exe.config
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\bin\Debug\Cliente.exe
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\bin\Debug\Cliente.pdb
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\obj\Debug\Cliente.PantallaSesionUsuario.resources
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\obj\Debug\Cliente.exe
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\obj\Debug\Cliente.pdb
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\obj\Debug\Cliente.Salita.resources
+C:\SO\ProyectoSo\SERVIDOR-CLIENTE\JUEGO\Cliente\obj\Debug\Cliente.Tablero.resources
